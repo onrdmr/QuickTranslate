@@ -1,0 +1,308 @@
+Acur
+Ahududu
+Akdeniz Baharatları
+Akdeniz Yeşilliği
+Ananas
+Armut
+Armut (2.kalite)
+Armut (Akça)
+Armut (Ankara)
+Armut (Deveci)
+Armut (Diğer)
+Armut (Santamaria)
+Asparagus
+Avakado
+Ayva
+Ayva ( İkinci )
+Bakla
+Bakla(Sakız)
+Bamya
+Barbunya
+Bezelye
+Bezelye (Araka)
+Bezelye(Sultani)
+Biber (Capia)
+Biber (Capia) Sera
+Biber (Capya) Tarla
+Biber (Dolma)
+Biber (Dolma) Antalya
+Biber (Dolma) Sera
+Biber (Dolma)İkinci
+Biber (Köy)
+Biber (Kırmızı)
+Biber (Renkli)
+Biber (Sivri)
+Biber (Sivri) Sera
+Biber (Sivri)İkinci
+Biber (Çarli)
+Biber (Çarli) Antalya
+Biber (Çarli) Sera
+Biber (Çarli)İkinci
+Biber (İkinci)
+Biber Dolma(Renkli)Sera
+Biber Köy II.
+Biber sivri kıl
+Biber(Sivri Kıl)
+Brokoli
+Brokoli (Paket)
+Böğürtlen
+Dereotu
+Dereotu II.
+Domates
+Domates ( Beef)
+Domates (Antalya)
+Domates (Lüks)
+Domates (Pembe)
+Domates (Salkım)
+Domates (Sera)
+Domates (kokteyl)
+Domates (Çanakkale)
+Domates (Çeri)
+Domates (İkinci kalite)
+Domates(Petemek)
+Domates(Tarla)
+Dut
+Dut (Beyaz)
+Dut (Kara)
+Elma (2. Kalite)
+Elma (Amasya)
+Elma (Bodur)
+Elma (Ekşi)
+Elma (Golden)
+Elma (Granasimit)
+Elma (Gransimit)
+Elma (Starkin)
+Elma (kırmızı)
+Elma(GoldenII.)
+Elma(amasya II.)
+Elma(fuji)
+Elma(gala)
+Elma(gransimit)II.
+Elma(starkin)II.
+Elma(starking)
+Enginar
+Erik
+Erik (Anjelik)
+Erik (Can)
+Erik (Kırmızı)
+Erik (Kırmızı)
+Erik (Lüks)
+Erik (Malta)
+Erik (Malta)
+Erik (Papaz)
+Erik Kırmızı
+Erik Malta(ikinci)
+Erik(Mürdüm)
+Fasulye (2.Kalite))
+Fasülye (Boncuk)
+Fasülye (Yer)
+Fasülye (Çalı)
+Fasülye (Şeker)
+Fasülye(Çalı II.)
+Fasülye(Çalı Sera)
+Fesleğen
+Franbuğaz
+Ginger (Zencefil)
+Greyfurt
+Greyfurt II.
+Göbek Salata
+Göbek Salata ( Sera )
+Göbek Salata ( ithal )
+Göbek Salata (2.Kalite)
+Göbek Salata (6'lık)
+Göbek Salata (Beypazarı)
+Göbek Salata (Diğer)
+Göbek Salata (Finike)
+Göbek Salata (Tarsus)
+Göbek Salata Sera (Tarsus)
+Göbek Salata (İzmir)
+Havuç (Beypazarı)
+Havuç (Beypazarı)İri
+Havuç (İkinci)
+Havuç I.
+Hindistan Cevizi
+Hindistan Cevizi Taze
+Hurma
+Ispanak
+Ispanak (Sera)
+Ispanak II.
+Kabak (Bal)
+Kabak (Bal)II.
+Kabak (Sakız)
+Kabak (Sakız) Sera
+Kabak Sakız(ikinci)
+Karambola
+Karnabahar
+Karnabahar ( Adet )
+Karpuz
+Karpuz (1.Kalite)
+Karpuz (2.Kalite)
+Karpuz (Sera)
+Karpuz (Çıkma)
+Karpuz (Çıkma)
+Karpuz(Çekrdeksiz)
+Kavun
+Kavun (Galya)
+Kavun (Kırkağaç)
+Kavun (sera)
+Kavun (Çıkma)
+Kavun(2.Kalite)
+Kavun(Finike)
+Kayısı
+Kayısı (Iğdır)
+Kayısı (Malatya)
+Kayısı (Tokalı)
+Kayısı (İkinci)
+Kayısı I.
+Kereviz
+Kestane
+Kiraz
+Kiraz (Napolyon)
+Kiraz (Salihli)
+Kiraz II.
+Kiriş
+Kivi
+Kivi (Yerli)
+Kivi(Dökme)
+Kuzu Kulağı
+Kuşkonmaz
+Kıvırcık
+Kıvırcık (2.Kalite)
+Kızılcık
+Lahana (Beyaz adet)
+Lahana (Beyaz)
+Lahana (Beyaz) Çv
+Lahana (Brüksel)
+Lahana (Kara)
+Lahana (Kırmızı)
+Limes
+Limon
+Limon (Enter)
+Limon (Lamas)
+Limon (Mayer)
+Limon (Çıkma)
+Mandalina
+Mandalina (2.kalite)
+Mandalina (Hatay)
+Mandalina (King)
+Mandalina (Kıbrıs)
+Mandalina (Satsuma)
+Mandalina (İzmir)
+Mandalina I.
+Mandalina(ikinci)
+Mango
+Mantar
+Mantar(Paket)
+Mantar(İstiridye)
+Marul
+Marul ( Sera )
+Marul (8'lik)
+Marul (II.)
+Marul II.
+Maydonoz
+Maydonoz II.
+Maydonoz(150'lik)
+Muz (1. Kalite)
+Muz (2. Kalite)
+Muz (Yerli)
+Muz(Yerli II.)
+Muşmula
+Mısır
+Mısır (Taze)
+Nane (Tekli)
+Nane II.
+Nar
+Nar(II.)
+Nektarin
+Nektarin
+Nektarin (Beyaz)
+Nektarin II.
+Pancar
+Pancar ( Torba )
+Papaya
+Patates
+Patates (1.kalite)
+Patates (2.kalite)
+Patates (Dev)
+Patates (Paket)
+Patates (Taze)
+Patates(Yeni)
+Patlıcan (İkinci)
+Patlıcan Antalya (Sera)
+Patlıcan Bostan
+Patlıcan Bostan(Sera)
+Patlıcan I.
+Patlıcan Sera
+Pazı
+Pepino
+Pitahaya (Ejder Meyvesi)
+Pomelo
+Portakal
+Portakal (2.kalite)
+Portakal (Finike Çavdır)
+Portakal (Sıkmalık)
+Portakal (Valensiya)
+Portakal (Waşington)
+Portakal(lüx)
+Pshalis
+Pırasa
+Reyhan
+Roka
+Roka II.
+Salata (Silor)
+Salata (Çengelköy) silor
+Salata(Antalya)
+Salata(çengelköy II.)
+Salatalık I.
+Salatalık(acur)
+Salatalık(İkinci)
+Salihli Kiraz
+Sarımsak
+Sarımsak (Kuru)
+Sarımsak (Yeşil)
+Sarımsak(II.)
+Semizotu
+Soğan (Arpacık)
+Soğan (Kırmızı Balık)
+Soğan (Taze)
+Soğan (Tekirdağ)
+Soğan Kuru
+Soğan Kuru II.
+Soğan Kuru(ikinci)
+Soğan Taze (Topraklı)
+Soğan(Kuru)
+Tereotu
+Turp
+Turp (Japon)
+Turp (Kırmızı)
+Turp(Şalgam)
+Vişne
+Yaprak (Salamura)
+Yaprak (Taze)
+Yer Elması
+nar
+Çağla (Badem)
+Çilek
+Çilek (Uludağ)
+Çilek II.
+Çilek(I.)
+Çilek(Uludağ)
+Üzüm
+Üzüm (2.kalite)
+Üzüm (Kırmızı)
+Üzüm (Müşküle)
+Üzüm (Rezzaki)
+Üzüm (Siyah)
+Üzüm (siyah)Lüks
+Üzüm (Çavuş)
+Üzüm (Çekirdeksiz)
+Üzüm (Çekirdeksiz)
+Üzüm (İzmir)
+Üzüm(Siyah)
+Üzüm(redglobe)
+İncir
+İncir (Siyah)
+İncir(Beyaz)
+İncir(Kavak)
+Şeftali
+Şeftali(ikinci)

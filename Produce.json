@@ -1,0 +1,1844 @@
+[
+  {
+    "name": "Acur",
+    "code": "ACUR",
+    "parentProductCode": "ACUR",
+    "description": ""
+  },
+  {
+    "name": "Ahududu",
+    "code": "RASPBERRY",
+    "parentProductCode": "RASPBERRY",
+    "description": ""
+  },
+  {
+    "name": "Akdeniz Baharatları",
+    "code": "MEDITERRENIAN_SPICES",
+    "parentProductCode": "MEDITERRENIAN",
+    "description": ""
+  },
+  {
+    "name": "Akdeniz Yeşilliği",
+    "code": "MEDITERRENIAN_GREENERY",
+    "parentProductCode": "MEDITERRENIAN",
+    "description": ""
+  },
+  {
+    "name": "Ananas",
+    "code": "PINEAPPLE",
+    "parentProductCode": "PINEAPPLE",
+    "description": ""
+  },
+  {
+    "name": "Armut",
+    "code": "PEAR",
+    "parentProductCode": "PEAR",
+    "description": ""
+  },
+  {
+    "name": "Armut (2.kalite)",
+    "code": "PEAR_SECONDQUALITY",
+    "parentProductCode": "PEAR",
+    "description": ""
+  },
+  {
+    "name": "Armut (Akça)",
+    "code": "PEAR_AKCA",
+    "parentProductCode": "PEAR",
+    "description": ""
+  },
+  {
+    "name": "Armut (Ankara)",
+    "code": "PEAR_ANKARA",
+    "parentProductCode": "PEAR",
+    "description": ""
+  },
+  {
+    "name": "Armut (Deveci)",
+    "code": "PEAR_CAMELEER",
+    "parentProductCode": "PEAR",
+    "description": ""
+  },
+  {
+    "name": "Armut (Diğer)",
+    "code": "PEAR_OTHER",
+    "parentProductCode": "PEAR",
+    "description": ""
+  },
+  {
+    "name": "Armut (Santamaria)",
+    "code": "PEAR_SANTAMARIA",
+    "parentProductCode": "PEAR",
+    "description": ""
+  },
+  {
+    "name": "Asparagus",
+    "code": "ASPARAGUS",
+    "parentProductCode": "ASPARAGUS",
+    "description": ""
+  },
+  {
+    "name": "Avakado",
+    "code": "AVOCADO",
+    "parentProductCode": "AVOCADO",
+    "description": ""
+  },
+  {
+    "name": "Ayva",
+    "code": "QUINCE",
+    "parentProductCode": "QUINCE",
+    "description": ""
+  },
+  {
+    "name": "Ayva ( İkinci )",
+    "code": "QUINCE_SECOND",
+    "parentProductCode": "QUINCE",
+    "description": ""
+  },
+  {
+    "name": "Bakla",
+    "code": "BROAD_BEANS",
+    "parentProductCode": "BROAD BEANS",
+    "description": ""
+  },
+  {
+    "name": "Bakla(Sakız)",
+    "code": "BROAD_BEANS_CHEWING_GUM",
+    "parentProductCode": "BROAD BEANS",
+    "description": ""
+  },
+  {
+    "name": "Bamya",
+    "code": "OKRA",
+    "parentProductCode": "OKRA",
+    "description": ""
+  },
+  {
+    "name": "Barbunya",
+    "code": "KIDNEY_BEAN",
+    "parentProductCode": "KIDNEY BEAN",
+    "description": ""
+  },
+  {
+    "name": "Bezelye",
+    "code": "PEA",
+    "parentProductCode": "PEA",
+    "description": ""
+  },
+  {
+    "name": "Bezelye (Araka)",
+    "code": "PEA_ARAKA",
+    "parentProductCode": "PEA",
+    "description": ""
+  },
+  {
+    "name": "Bezelye(Sultani)",
+    "code": "PEA_SULTANA",
+    "parentProductCode": "PEA",
+    "description": ""
+  },
+  {
+    "name": "Biber (Capia)",
+    "code": "PEPPER_CAPIA",
+    "parentProductCode": "PEPPER",
+    "description": ""
+  },
+  {
+    "name": "Biber (Capia) Sera",
+    "code": "PEPPER_CAPIA_GREENHOUSE",
+    "parentProductCode": "PEPPER",
+    "description": ""
+  },
+  {
+    "name": "Biber (Capya) Tarla",
+    "code": "PEPPER_CAPYA_FIELD",
+    "parentProductCode": "PEPPER",
+    "description": ""
+  },
+  {
+    "name": "Biber (Dolma)",
+    "code": "PEPPER_FILLING",
+    "parentProductCode": "PEPPER",
+    "description": ""
+  },
+  {
+    "name": "Biber (Dolma) Antalya",
+    "code": "PEPPER_STUFFED_ANTALYA",
+    "parentProductCode": "PEPPER",
+    "description": ""
+  },
+  {
+    "name": "Biber (Dolma) Sera",
+    "code": "PEPPER_STUFFED_GREENHOUSE",
+    "parentProductCode": "PEPPER",
+    "description": ""
+  },
+  {
+    "name": "Biber (Dolma)İkinci",
+    "code": "PEPPER_STUFFEDSECOND",
+    "parentProductCode": "PEPPER",
+    "description": ""
+  },
+  {
+    "name": "Biber (Köy)",
+    "code": "PEPPER_BAY",
+    "parentProductCode": "PEPPER",
+    "description": ""
+  },
+  {
+    "name": "Biber (Kırmızı)",
+    "code": "PEPPER_RED",
+    "parentProductCode": "PEPPER",
+    "description": ""
+  },
+  {
+    "name": "Biber (Renkli)",
+    "code": "PEPPER_COLOURFUL",
+    "parentProductCode": "PEPPER",
+    "description": ""
+  },
+  {
+    "name": "Biber (Sivri)",
+    "code": "PEPPER_POINTED",
+    "parentProductCode": "PEPPER",
+    "description": ""
+  },
+  {
+    "name": "Biber (Sivri) Sera",
+    "code": "PEPPER_POINTED_GREENHOUSE",
+    "parentProductCode": "PEPPER",
+    "description": ""
+  },
+  {
+    "name": "Biber (Sivri)İkinci",
+    "code": "PEPPER_POINTEDSECOND",
+    "parentProductCode": "PEPPER",
+    "description": ""
+  },
+  {
+    "name": "Biber (Çarli)",
+    "code": "PEPPER_CHARLIE",
+    "parentProductCode": "PEPPER",
+    "description": ""
+  },
+  {
+    "name": "Biber (Çarli) Antalya",
+    "code": "PEPPER_CHARLIE_ANTALYA",
+    "parentProductCode": "PEPPER",
+    "description": ""
+  },
+  {
+    "name": "Biber (Çarli) Sera",
+    "code": "PEPPER_CHARLIE_GREENHOUSE",
+    "parentProductCode": "PEPPER",
+    "description": ""
+  },
+  {
+    "name": "Biber (Çarli)İkinci",
+    "code": "PEPPER_CZARLISECOND",
+    "parentProductCode": "PEPPER",
+    "description": ""
+  },
+  {
+    "name": "Biber (İkinci)",
+    "code": "PEPPER_SECOND",
+    "parentProductCode": "PEPPER",
+    "description": ""
+  },
+  {
+    "name": "Biber Dolma(Renkli)Sera",
+    "code": "PEPPER_STUFFEDCOLORFULGREENHOUSE",
+    "parentProductCode": "PEPPER",
+    "description": ""
+  },
+  {
+    "name": "Biber Köy II.",
+    "code": "PEPPER_VILLAGE_SECOND",
+    "parentProductCode": "PEPPER",
+    "description": ""
+  },
+  {
+    "name": "Biber sivri kıl",
+    "code": "PEPPER_BRISTLE",
+    "parentProductCode": "PEPPER",
+    "description": ""
+  },
+  {
+    "name": "Biber(Sivri Kıl)",
+    "code": "PEPPER_POINTED_BRISTLE",
+    "parentProductCode": "PEPPER",
+    "description": ""
+  },
+  {
+    "name": "Brokoli",
+    "code": "BROCCOLI",
+    "parentProductCode": "BROCCOLI",
+    "description": ""
+  },
+  {
+    "name": "Brokoli (Paket)",
+    "code": "BROCCOLI_PACKAGE",
+    "parentProductCode": "BROCCOLI",
+    "description": ""
+  },
+  {
+    "name": "Böğürtlen",
+    "code": "BLACKBERRY",
+    "parentProductCode": "BLACKBERRY",
+    "description": ""
+  },
+  {
+    "name": "Dereotu",
+    "code": "DILL",
+    "parentProductCode": "DILL",
+    "description": ""
+  },
+  {
+    "name": "Dereotu II.",
+    "code": "DILL_SECOND",
+    "parentProductCode": "DILL",
+    "description": ""
+  },
+  {
+    "name": "Domates",
+    "code": "TOMATOES",
+    "parentProductCode": "TOMATOES",
+    "description": ""
+  },
+  {
+    "name": "Domates ( Beef)",
+    "code": "TOMATOES_BEEF",
+    "parentProductCode": "TOMATOES",
+    "description": ""
+  },
+  {
+    "name": "Domates (Antalya)",
+    "code": "TOMATOES_ANTALYA",
+    "parentProductCode": "TOMATOES",
+    "description": ""
+  },
+  {
+    "name": "Domates (Lüks)",
+    "code": "TOMATOES_LUXURY",
+    "parentProductCode": "TOMATOES",
+    "description": ""
+  },
+  {
+    "name": "Domates (Pembe)",
+    "code": "TOMATOES_PINK",
+    "parentProductCode": "TOMATOES",
+    "description": ""
+  },
+  {
+    "name": "Domates (Salkım)",
+    "code": "TOMATOES_CLUSTER",
+    "parentProductCode": "TOMATOES",
+    "description": ""
+  },
+  {
+    "name": "Domates (Sera)",
+    "code": "TOMATOES_GREENHOUSE",
+    "parentProductCode": "TOMATOES",
+    "description": ""
+  },
+  {
+    "name": "Domates (kokteyl)",
+    "code": "TOMATOES_COCKTAIL",
+    "parentProductCode": "TOMATOES",
+    "description": ""
+  },
+  {
+    "name": "Domates (Çanakkale)",
+    "code": "TOMATOES_CANAKKALE",
+    "parentProductCode": "TOMATOES",
+    "description": ""
+  },
+  {
+    "name": "Domates (Çeri)",
+    "code": "TOMATOES_CHERRY",
+    "parentProductCode": "TOMATOES",
+    "description": ""
+  },
+  {
+    "name": "Domates (İkinci kalite)",
+    "code": "TOMATOES_SECOND_QUALITY",
+    "parentProductCode": "TOMATOES",
+    "description": ""
+  },
+  {
+    "name": "Domates(Petemek)",
+    "code": "TOMATOES_HONEYCOMB",
+    "parentProductCode": "TOMATOES",
+    "description": ""
+  },
+  {
+    "name": "Domates(Tarla)",
+    "code": "TOMATOES_FIELD",
+    "parentProductCode": "TOMATOES",
+    "description": ""
+  },
+  {
+    "name": "Dut",
+    "code": "MULBERRY",
+    "parentProductCode": "MULBERRY",
+    "description": ""
+  },
+  {
+    "name": "Dut (Beyaz)",
+    "code": "MULBERRY_WHITE",
+    "parentProductCode": "MULBERRY",
+    "description": ""
+  },
+  {
+    "name": "Dut (Kara)",
+    "code": "MULBERRY_BLACK",
+    "parentProductCode": "MULBERRY",
+    "description": ""
+  },
+  {
+    "name": "Elma (2. Kalite)",
+    "code": "APPLE_SECOND_QUALITY",
+    "parentProductCode": "APPLE",
+    "description": ""
+  },
+  {
+    "name": "Elma (Amasya)",
+    "code": "APPLE_AMASYA",
+    "parentProductCode": "APPLE",
+    "description": ""
+  },
+  {
+    "name": "Elma (Bodur)",
+    "code": "APPLE_SCRUB",
+    "parentProductCode": "APPLE",
+    "description": ""
+  },
+  {
+    "name": "Elma (Ekşi)",
+    "code": "APPLE_MINUS",
+    "parentProductCode": "APPLE",
+    "description": ""
+  },
+  {
+    "name": "Elma (Golden)",
+    "code": "APPLE_GOLDEN",
+    "parentProductCode": "APPLE",
+    "description": ""
+  },
+  {
+    "name": "Elma (Granasimit)",
+    "code": "APPLE_GRANITE",
+    "parentProductCode": "APPLE",
+    "description": ""
+  },
+  {
+    "name": "Elma (Gransimit)",
+    "code": "APPLE_GRANSIMIT",
+    "parentProductCode": "APPLE",
+    "description": ""
+  },
+  {
+    "name": "Elma (Starkin)",
+    "code": "APPLE_STARKIN",
+    "parentProductCode": "APPLE",
+    "description": ""
+  },
+  {
+    "name": "Elma (kırmızı)",
+    "code": "APPLE_RED",
+    "parentProductCode": "APPLE",
+    "description": ""
+  },
+  {
+    "name": "Elma(GoldenII.)",
+    "code": "APPLE_GOLDENSECOND",
+    "parentProductCode": "APPLE",
+    "description": ""
+  },
+  {
+    "name": "Elma(amasya II.)",
+    "code": "APPLE_AMASYA_SECOND",
+    "parentProductCode": "APPLE",
+    "description": ""
+  },
+  {
+    "name": "Elma(fuji)",
+    "code": "APPLE_FUJI",
+    "parentProductCode": "APPLE",
+    "description": ""
+  },
+  {
+    "name": "Elma(gala)",
+    "code": "APPLE_PREMIERE",
+    "parentProductCode": "APPLE",
+    "description": ""
+  },
+  {
+    "name": "Elma(gransimit)II.",
+    "code": "APPLE_GRANSIMITSECOND",
+    "parentProductCode": "APPLE",
+    "description": ""
+  },
+  {
+    "name": "Elma(starkin)II.",
+    "code": "APPLE_STARKIN_SECOND",
+    "parentProductCode": "APPLE",
+    "description": ""
+  },
+  {
+    "name": "Elma(starking)",
+    "code": "APPLE_STARKING",
+    "parentProductCode": "APPLE",
+    "description": ""
+  },
+  {
+    "name": "Enginar",
+    "code": "ARTICHOKE",
+    "parentProductCode": "ARTICHOKE",
+    "description": ""
+  },
+  {
+    "name": "Erik",
+    "code": "PLUM",
+    "parentProductCode": "PLUM",
+    "description": ""
+  },
+  {
+    "name": "Erik (Anjelik)",
+    "code": "PLUM_ANGELIC",
+    "parentProductCode": "PLUM",
+    "description": ""
+  },
+  {
+    "name": "Erik (Can)",
+    "code": "PLUM_LIFE",
+    "parentProductCode": "PLUM",
+    "description": ""
+  },
+  {
+    "name": "Erik (Kırmızı)",
+    "code": "PLUM_RED",
+    "parentProductCode": "PLUM",
+    "description": ""
+  },
+  {
+    "name": "Erik (Kırmızı)",
+    "code": "PLUM_RED",
+    "parentProductCode": "PLUM",
+    "description": ""
+  },
+  {
+    "name": "Erik (Lüks)",
+    "code": "PLUM_LUXURY",
+    "parentProductCode": "PLUM",
+    "description": ""
+  },
+  {
+    "name": "Erik (Malta)",
+    "code": "PLUM_MALTA",
+    "parentProductCode": "PLUM",
+    "description": ""
+  },
+  {
+    "name": "Erik (Malta)",
+    "code": "PLUM_MALTA",
+    "parentProductCode": "PLUM",
+    "description": ""
+  },
+  {
+    "name": "Erik (Papaz)",
+    "code": "PLUM_PRIEST",
+    "parentProductCode": "PLUM",
+    "description": ""
+  },
+  {
+    "name": "Erik Kırmızı",
+    "code": "PLUM_RED",
+    "parentProductCode": "PLUM",
+    "description": ""
+  },
+  {
+    "name": "Erik Malta(ikinci)",
+    "code": "PLUM_MALTASECOND",
+    "parentProductCode": "PLUM",
+    "description": ""
+  },
+  {
+    "name": "Erik(Mürdüm)",
+    "code": "PLUM_PLUM",
+    "parentProductCode": "PLUM",
+    "description": ""
+  },
+  {
+    "name": "Fasulye (2.Kalite))",
+    "code": "BEAN_SECONDQUALITY",
+    "parentProductCode": "BEAN",
+    "description": ""
+  },
+  {
+    "name": "Fasülye (Boncuk)",
+    "code": "BEAN_BEAD",
+    "parentProductCode": "BEAN",
+    "description": ""
+  },
+  {
+    "name": "Fasülye (Yer)",
+    "code": "BEAN_PLACE",
+    "parentProductCode": "BEAN",
+    "description": ""
+  },
+  {
+    "name": "Fasülye (Çalı)",
+    "code": "BEAN_BUSH",
+    "parentProductCode": "BEAN",
+    "description": ""
+  },
+  {
+    "name": "Fasülye (Şeker)",
+    "code": "BEAN_SUGAR",
+    "parentProductCode": "BEAN",
+    "description": ""
+  },
+  {
+    "name": "Fasülye(Çalı II.)",
+    "code": "BEAN_BUSH_SECOND",
+    "parentProductCode": "BEAN",
+    "description": ""
+  },
+  {
+    "name": "Fasülye(Çalı Sera)",
+    "code": "BEAN_BUSH_GREENHOUSE",
+    "parentProductCode": "BEAN",
+    "description": ""
+  },
+  {
+    "name": "Fesleğen",
+    "code": "BASIL",
+    "parentProductCode": "BASIL",
+    "description": ""
+  },
+  {
+    "name": "Franbuğaz",
+    "code": "RASPBERRY",
+    "parentProductCode": "RASPBERRY",
+    "description": ""
+  },
+  {
+    "name": "Ginger (Zencefil)",
+    "code": "GINGER_GINGER",
+    "parentProductCode": "GINGER",
+    "description": ""
+  },
+  {
+    "name": "Greyfurt",
+    "code": "GRAPEFRUIT",
+    "parentProductCode": "GRAPEFRUIT",
+    "description": ""
+  },
+  {
+    "name": "Greyfurt II.",
+    "code": "GRAPEFRUIT_SECOND",
+    "parentProductCode": "GRAPEFRUIT",
+    "description": ""
+  },
+  {
+    "name": "Göbek Salata",
+    "code": "LETTUCE",
+    "parentProductCode": "LETTUCE",
+    "description": ""
+  },
+  {
+    "name": "Göbek Salata ( Sera )",
+    "code": "LETTUCE_GREENHOUSE",
+    "parentProductCode": "LETTUCE",
+    "description": ""
+  },
+  {
+    "name": "Göbek Salata ( ithal )",
+    "code": "LETTUCE_IMPORTED",
+    "parentProductCode": "LETTUCE",
+    "description": ""
+  },
+  {
+    "name": "Göbek Salata (2.Kalite)",
+    "code": "LETTUCE_SECONDQUALITY",
+    "parentProductCode": "LETTUCE",
+    "description": ""
+  },
+  {
+    "name": "Göbek Salata (6'lık)",
+    "code": "LETTUCE_SIX_S",
+    "parentProductCode": "LETTUCE",
+    "description": ""
+  },
+  {
+    "name": "Göbek Salata (Beypazarı)",
+    "code": "LETTUCE_BEYPAZARI",
+    "parentProductCode": "LETTUCE",
+    "description": ""
+  },
+  {
+    "name": "Göbek Salata (Diğer)",
+    "code": "LETTUCE_OTHER",
+    "parentProductCode": "LETTUCE",
+    "description": ""
+  },
+  {
+    "name": "Göbek Salata (Finike)",
+    "code": "LETTUCE_FINIKE",
+    "parentProductCode": "LETTUCE",
+    "description": ""
+  },
+  {
+    "name": "Göbek Salata (Tarsus)",
+    "code": "LETTUCE_TARSUS",
+    "parentProductCode": "LETTUCE",
+    "description": ""
+  },
+  {
+    "name": "Göbek Salata Sera (Tarsus)",
+    "code": "LETTUCE_GREENHOUSE_TARSUS",
+    "parentProductCode": "LETTUCE",
+    "description": ""
+  },
+  {
+    "name": "Göbek Salata (İzmir)",
+    "code": "LETTUCE_IZMIR",
+    "parentProductCode": "LETTUCE",
+    "description": ""
+  },
+  {
+    "name": "Havuç (Beypazarı)",
+    "code": "CARROT_BEYPAZARI",
+    "parentProductCode": "CARROT",
+    "description": ""
+  },
+  {
+    "name": "Havuç (Beypazarı)İri",
+    "code": "CARROT_BEYPAZARIBIG",
+    "parentProductCode": "CARROT",
+    "description": ""
+  },
+  {
+    "name": "Havuç (İkinci)",
+    "code": "CARROT_SECOND",
+    "parentProductCode": "CARROT",
+    "description": ""
+  },
+  {
+    "name": "Havuç I.",
+    "code": "CARROT_FIRST",
+    "parentProductCode": "CARROT",
+    "description": ""
+  },
+  {
+    "name": "Hindistan Cevizi",
+    "code": "INDIA_WALNUT",
+    "parentProductCode": "INDIA",
+    "description": ""
+  },
+  {
+    "name": "Hindistan Cevizi Taze",
+    "code": "INDIA_NUTS_FRESH",
+    "parentProductCode": "INDIA",
+    "description": ""
+  },
+  {
+    "name": "Hurma",
+    "code": "DATE",
+    "parentProductCode": "DATE",
+    "description": ""
+  },
+  {
+    "name": "Ispanak",
+    "code": "SPINACH",
+    "parentProductCode": "SPINACH",
+    "description": ""
+  },
+  {
+    "name": "Ispanak (Sera)",
+    "code": "SPINACH_GREENHOUSE",
+    "parentProductCode": "SPINACH",
+    "description": ""
+  },
+  {
+    "name": "Ispanak II.",
+    "code": "SPINACH_SECOND",
+    "parentProductCode": "SPINACH",
+    "description": ""
+  },
+  {
+    "name": "Kabak (Bal)",
+    "code": "COURGETTE_HONEY",
+    "parentProductCode": "COURGETTE",
+    "description": ""
+  },
+  {
+    "name": "Kabak (Bal)II.",
+    "code": "COURGETTE_FISH.",
+    "parentProductCode": "COURGETTE",
+    "description": ""
+  },
+  {
+    "name": "Kabak (Sakız)",
+    "code": "COURGETTE_CHEWING_GUM",
+    "parentProductCode": "COURGETTE",
+    "description": ""
+  },
+  {
+    "name": "Kabak (Sakız) Sera",
+    "code": "COURGETTE_GUM_GREENHOUSE",
+    "parentProductCode": "COURGETTE",
+    "description": ""
+  },
+  {
+    "name": "Kabak Sakız(ikinci)",
+    "code": "COURGETTE_SAKIZSECOND",
+    "parentProductCode": "COURGETTE",
+    "description": ""
+  },
+  {
+    "name": "Karambola",
+    "code": "CARAMBOLA",
+    "parentProductCode": "CARAMBOLA",
+    "description": ""
+  },
+  {
+    "name": "Karnabahar",
+    "code": "CAULIFLOWER",
+    "parentProductCode": "CAULIFLOWER",
+    "description": ""
+  },
+  {
+    "name": "Karnabahar ( Adet )",
+    "code": "CAULIFLOWER_PIECE",
+    "parentProductCode": "CAULIFLOWER",
+    "description": ""
+  },
+  {
+    "name": "Karpuz",
+    "code": "WATERMELON",
+    "parentProductCode": "WATERMELON",
+    "description": ""
+  },
+  {
+    "name": "Karpuz (1.Kalite)",
+    "code": "WATERMELON_FIRSTQUALITY",
+    "parentProductCode": "WATERMELON",
+    "description": ""
+  },
+  {
+    "name": "Karpuz (2.Kalite)",
+    "code": "WATERMELON_SECONDQUALITY",
+    "parentProductCode": "WATERMELON",
+    "description": ""
+  },
+  {
+    "name": "Karpuz (Sera)",
+    "code": "WATERMELON_GREENHOUSE",
+    "parentProductCode": "WATERMELON",
+    "description": ""
+  },
+  {
+    "name": "Karpuz (Çıkma)",
+    "code": "WATERMELON_EMERGENCE",
+    "parentProductCode": "WATERMELON",
+    "description": ""
+  },
+  {
+    "name": "Karpuz (Çıkma)",
+    "code": "WATERMELON_EMERGENCE",
+    "parentProductCode": "WATERMELON",
+    "description": ""
+  },
+  {
+    "name": "Karpuz(Çekrdeksiz)",
+    "code": "WATERMELON_CORELESS",
+    "parentProductCode": "WATERMELON",
+    "description": ""
+  },
+  {
+    "name": "Kavun",
+    "code": "MELON",
+    "parentProductCode": "MELON",
+    "description": ""
+  },
+  {
+    "name": "Kavun (Galya)",
+    "code": "MELON_GAUL",
+    "parentProductCode": "MELON",
+    "description": ""
+  },
+  {
+    "name": "Kavun (Kırkağaç)",
+    "code": "MELON_KIRKAGAC",
+    "parentProductCode": "MELON",
+    "description": ""
+  },
+  {
+    "name": "Kavun (sera)",
+    "code": "MELON_GREENHOUSE",
+    "parentProductCode": "MELON",
+    "description": ""
+  },
+  {
+    "name": "Kavun (Çıkma)",
+    "code": "MELON_EMERGENCE",
+    "parentProductCode": "MELON",
+    "description": ""
+  },
+  {
+    "name": "Kavun(2.Kalite)",
+    "code": "MELON_SECONDQUALITY",
+    "parentProductCode": "MELON",
+    "description": ""
+  },
+  {
+    "name": "Kavun(Finike)",
+    "code": "MELON_FINIKE",
+    "parentProductCode": "MELON",
+    "description": ""
+  },
+  {
+    "name": "Kayısı",
+    "code": "APRICOT",
+    "parentProductCode": "APRICOT",
+    "description": ""
+  },
+  {
+    "name": "Kayısı (Iğdır)",
+    "code": "APRICOT_IGDIR",
+    "parentProductCode": "APRICOT",
+    "description": ""
+  },
+  {
+    "name": "Kayısı (Malatya)",
+    "code": "APRICOT_MALATYA",
+    "parentProductCode": "APRICOT",
+    "description": ""
+  },
+  {
+    "name": "Kayısı (Tokalı)",
+    "code": "APRICOT_BUCKLED",
+    "parentProductCode": "APRICOT",
+    "description": ""
+  },
+  {
+    "name": "Kayısı (İkinci)",
+    "code": "APRICOT_SECOND",
+    "parentProductCode": "APRICOT",
+    "description": ""
+  },
+  {
+    "name": "Kayısı I.",
+    "code": "APRICOT_FIRST",
+    "parentProductCode": "APRICOT",
+    "description": ""
+  },
+  {
+    "name": "Kereviz",
+    "code": "CELERY",
+    "parentProductCode": "CELERY",
+    "description": ""
+  },
+  {
+    "name": "Kestane",
+    "code": "CHESTNUT",
+    "parentProductCode": "CHESTNUT",
+    "description": ""
+  },
+  {
+    "name": "Kiraz",
+    "code": "CHERRY",
+    "parentProductCode": "CHERRY",
+    "description": ""
+  },
+  {
+    "name": "Kiraz (Napolyon)",
+    "code": "CHERRY_NAPOLEON",
+    "parentProductCode": "CHERRY",
+    "description": ""
+  },
+  {
+    "name": "Kiraz (Salihli)",
+    "code": "CHERRY_SALIHLI",
+    "parentProductCode": "CHERRY",
+    "description": ""
+  },
+  {
+    "name": "Kiraz II.",
+    "code": "CHERRY_SECOND",
+    "parentProductCode": "CHERRY",
+    "description": ""
+  },
+  {
+    "name": "Kiriş",
+    "code": "BEAM",
+    "parentProductCode": "BEAM",
+    "description": ""
+  },
+  {
+    "name": "Kivi",
+    "code": "KIWI",
+    "parentProductCode": "KIWI",
+    "description": ""
+  },
+  {
+    "name": "Kivi (Yerli)",
+    "code": "KIWI_LOCAL",
+    "parentProductCode": "KIWI",
+    "description": ""
+  },
+  {
+    "name": "Kivi(Dökme)",
+    "code": "KIWI_POURING",
+    "parentProductCode": "KIWI",
+    "description": ""
+  },
+  {
+    "name": "Kuzu Kulağı",
+    "code": "LAMB_EAR",
+    "parentProductCode": "LAMB",
+    "description": ""
+  },
+  {
+    "name": "Kuşkonmaz",
+    "code": "ASPARAGUS",
+    "parentProductCode": "ASPARAGUS",
+    "description": ""
+  },
+  {
+    "name": "Kıvırcık",
+    "code": "CURLY",
+    "parentProductCode": "CURLY",
+    "description": ""
+  },
+  {
+    "name": "Kıvırcık (2.Kalite)",
+    "code": "CURLY_SECONDQUALITY",
+    "parentProductCode": "CURLY",
+    "description": ""
+  },
+  {
+    "name": "Kızılcık",
+    "code": "CRANBERRY",
+    "parentProductCode": "CRANBERRY",
+    "description": ""
+  },
+  {
+    "name": "Lahana (Beyaz adet)",
+    "code": "CABBAGE_WHITE_PIECE",
+    "parentProductCode": "CABBAGE",
+    "description": ""
+  },
+  {
+    "name": "Lahana (Beyaz)",
+    "code": "CABBAGE_WHITE",
+    "parentProductCode": "CABBAGE",
+    "description": ""
+  },
+  {
+    "name": "Lahana (Beyaz) Çv",
+    "code": "CABBAGE_WHITE_CV",
+    "parentProductCode": "CABBAGE",
+    "description": ""
+  },
+  {
+    "name": "Lahana (Brüksel)",
+    "code": "CABBAGE_BRUSSELS",
+    "parentProductCode": "CABBAGE",
+    "description": ""
+  },
+  {
+    "name": "Lahana (Kara)",
+    "code": "CABBAGE_BLACK",
+    "parentProductCode": "CABBAGE",
+    "description": ""
+  },
+  {
+    "name": "Lahana (Kırmızı)",
+    "code": "CABBAGE_RED",
+    "parentProductCode": "CABBAGE",
+    "description": ""
+  },
+  {
+    "name": "Limes",
+    "code": "LIMES",
+    "parentProductCode": "LIMES",
+    "description": ""
+  },
+  {
+    "name": "Limon",
+    "code": "LEMON",
+    "parentProductCode": "LEMON",
+    "description": ""
+  },
+  {
+    "name": "Limon (Enter)",
+    "code": "LEMON_ENTER",
+    "parentProductCode": "LEMON",
+    "description": ""
+  },
+  {
+    "name": "Limon (Lamas)",
+    "code": "LEMON_LAMAS",
+    "parentProductCode": "LEMON",
+    "description": ""
+  },
+  {
+    "name": "Limon (Mayer)",
+    "code": "LEMON_MAYER",
+    "parentProductCode": "LEMON",
+    "description": ""
+  },
+  {
+    "name": "Limon (Çıkma)",
+    "code": "LEMON_EMERGENCE",
+    "parentProductCode": "LEMON",
+    "description": ""
+  },
+  {
+    "name": "Mandalina",
+    "code": "MANDARIN",
+    "parentProductCode": "MANDARIN",
+    "description": ""
+  },
+  {
+    "name": "Mandalina (2.kalite)",
+    "code": "MANDARIN_SECONDQUALITY",
+    "parentProductCode": "MANDARIN",
+    "description": ""
+  },
+  {
+    "name": "Mandalina (Hatay)",
+    "code": "MANDARIN_HATAY",
+    "parentProductCode": "MANDARIN",
+    "description": ""
+  },
+  {
+    "name": "Mandalina (King)",
+    "code": "MANDARIN_KING",
+    "parentProductCode": "MANDARIN",
+    "description": ""
+  },
+  {
+    "name": "Mandalina (Kıbrıs)",
+    "code": "MANDARIN_CYPRUS",
+    "parentProductCode": "MANDARIN",
+    "description": ""
+  },
+  {
+    "name": "Mandalina (Satsuma)",
+    "code": "MANDARIN_SATSUMA",
+    "parentProductCode": "MANDARIN",
+    "description": ""
+  },
+  {
+    "name": "Mandalina (İzmir)",
+    "code": "MANDARIN_IZMIR",
+    "parentProductCode": "MANDARIN",
+    "description": ""
+  },
+  {
+    "name": "Mandalina I.",
+    "code": "MANDARIN_FIRST",
+    "parentProductCode": "MANDARIN",
+    "description": ""
+  },
+  {
+    "name": "Mandalina(ikinci)",
+    "code": "MANDARIN_SECOND",
+    "parentProductCode": "MANDARIN",
+    "description": ""
+  },
+  {
+    "name": "Mango",
+    "code": "MANGO",
+    "parentProductCode": "MANGO",
+    "description": ""
+  },
+  {
+    "name": "Mantar",
+    "code": "MUSHROOM",
+    "parentProductCode": "MUSHROOM",
+    "description": ""
+  },
+  {
+    "name": "Mantar(Paket)",
+    "code": "MUSHROOM_PACKAGE",
+    "parentProductCode": "MUSHROOM",
+    "description": ""
+  },
+  {
+    "name": "Mantar(İstiridye)",
+    "code": "MUSHROOM_OYSTER",
+    "parentProductCode": "MUSHROOM",
+    "description": ""
+  },
+  {
+    "name": "Marul",
+    "code": "LETTUCE",
+    "parentProductCode": "LETTUCE",
+    "description": ""
+  },
+  {
+    "name": "Marul ( Sera )",
+    "code": "LETTUCE_GREENHOUSE",
+    "parentProductCode": "LETTUCE",
+    "description": ""
+  },
+  {
+    "name": "Marul (8'lik)",
+    "code": "LETTUCE_EIGHT_S",
+    "parentProductCode": "LETTUCE",
+    "description": ""
+  },
+  {
+    "name": "Marul (II.)",
+    "code": "LETTUCE_SECOND",
+    "parentProductCode": "LETTUCE",
+    "description": ""
+  },
+  {
+    "name": "Marul II.",
+    "code": "LETTUCE_SECOND",
+    "parentProductCode": "LETTUCE",
+    "description": ""
+  },
+  {
+    "name": "Maydonoz",
+    "code": "PARSLEY",
+    "parentProductCode": "PARSLEY",
+    "description": ""
+  },
+  {
+    "name": "Maydonoz II.",
+    "code": "PARSLEY_SECOND",
+    "parentProductCode": "PARSLEY",
+    "description": ""
+  },
+  {
+    "name": "Maydonoz(150'lik)",
+    "code": "PARSLEY_OF_150",
+    "parentProductCode": "PARSLEY",
+    "description": ""
+  },
+  {
+    "name": "Muz (1. Kalite)",
+    "code": "BANANA_FIRST_QUALITY",
+    "parentProductCode": "BANANA",
+    "description": ""
+  },
+  {
+    "name": "Muz (2. Kalite)",
+    "code": "BANANA_SECOND_QUALITY",
+    "parentProductCode": "BANANA",
+    "description": ""
+  },
+  {
+    "name": "Muz (Yerli)",
+    "code": "BANANA_LOCAL",
+    "parentProductCode": "BANANA",
+    "description": ""
+  },
+  {
+    "name": "Muz(Yerli II.)",
+    "code": "BANANA_NATIVE_SECOND",
+    "parentProductCode": "BANANA",
+    "description": ""
+  },
+  {
+    "name": "Muşmula",
+    "code": "MEDLAR",
+    "parentProductCode": "MEDLAR",
+    "description": ""
+  },
+  {
+    "name": "Mısır",
+    "code": "SWEETCORN",
+    "parentProductCode": "SWEETCORN",
+    "description": ""
+  },
+  {
+    "name": "Mısır (Taze)",
+    "code": "SWEETCORN_FRESH",
+    "parentProductCode": "SWEETCORN",
+    "description": ""
+  },
+  {
+    "name": "Nane (Tekli)",
+    "code": "MINT_SINGLE",
+    "parentProductCode": "MINT",
+    "description": ""
+  },
+  {
+    "name": "Nane II.",
+    "code": "MINT_SECOND",
+    "parentProductCode": "MINT",
+    "description": ""
+  },
+  {
+    "name": "Nar",
+    "code": "POMEGRANATE",
+    "parentProductCode": "POMEGRANATE",
+    "description": ""
+  },
+  {
+    "name": "Nar(II.)",
+    "code": "POMEGRANATE_SECOND",
+    "parentProductCode": "POMEGRANATE",
+    "description": ""
+  },
+  {
+    "name": "Nektarin",
+    "code": "NECTARINE",
+    "parentProductCode": "NECTARINE",
+    "description": ""
+  },
+  {
+    "name": "Nektarin",
+    "code": "NECTARINE",
+    "parentProductCode": "NECTARINE",
+    "description": ""
+  },
+  {
+    "name": "Nektarin (Beyaz)",
+    "code": "NECTARINE_WHITE",
+    "parentProductCode": "NECTARINE",
+    "description": ""
+  },
+  {
+    "name": "Nektarin II.",
+    "code": "NECTARINE_SECOND",
+    "parentProductCode": "NECTARINE",
+    "description": ""
+  },
+  {
+    "name": "Pancar",
+    "code": "BEET",
+    "parentProductCode": "BEET",
+    "description": ""
+  },
+  {
+    "name": "Pancar ( Torba )",
+    "code": "BEET_BAG",
+    "parentProductCode": "BEET",
+    "description": ""
+  },
+  {
+    "name": "Papaya",
+    "code": "PAPAYA",
+    "parentProductCode": "PAPAYA",
+    "description": ""
+  },
+  {
+    "name": "Patates",
+    "code": "POTATOES",
+    "parentProductCode": "POTATOES",
+    "description": ""
+  },
+  {
+    "name": "Patates (1.kalite)",
+    "code": "POTATOES_ONEST_QUALITY",
+    "parentProductCode": "POTATOES",
+    "description": ""
+  },
+  {
+    "name": "Patates (2.kalite)",
+    "code": "POTATOES_SECONDQUALITY",
+    "parentProductCode": "POTATOES",
+    "description": ""
+  },
+  {
+    "name": "Patates (Dev)",
+    "code": "POTATOES_GIANT",
+    "parentProductCode": "POTATOES",
+    "description": ""
+  },
+  {
+    "name": "Patates (Paket)",
+    "code": "POTATOES_PACKAGE",
+    "parentProductCode": "POTATOES",
+    "description": ""
+  },
+  {
+    "name": "Patates (Taze)",
+    "code": "POTATOES_FRESH",
+    "parentProductCode": "POTATOES",
+    "description": ""
+  },
+  {
+    "name": "Patates(Yeni)",
+    "code": "POTATOES_NEW",
+    "parentProductCode": "POTATOES",
+    "description": ""
+  },
+  {
+    "name": "Patlıcan (İkinci)",
+    "code": "AUBERGINE_SECOND",
+    "parentProductCode": "AUBERGINE",
+    "description": ""
+  },
+  {
+    "name": "Patlıcan Antalya (Sera)",
+    "code": "AUBERGINE_ANTALYA_GREENHOUSE",
+    "parentProductCode": "AUBERGINE",
+    "description": ""
+  },
+  {
+    "name": "Patlıcan Bostan",
+    "code": "AUBERGINE_TRUCK_FARM",
+    "parentProductCode": "AUBERGINE",
+    "description": ""
+  },
+  {
+    "name": "Patlıcan Bostan(Sera)",
+    "code": "AUBERGINE_BOSTANSEA",
+    "parentProductCode": "AUBERGINE",
+    "description": ""
+  },
+  {
+    "name": "Patlıcan I.",
+    "code": "AUBERGINE_FIRST",
+    "parentProductCode": "AUBERGINE",
+    "description": ""
+  },
+  {
+    "name": "Patlıcan Sera",
+    "code": "AUBERGINE_GREENHOUSE",
+    "parentProductCode": "AUBERGINE",
+    "description": ""
+  },
+  {
+    "name": "Pazı",
+    "code": "CHARD",
+    "parentProductCode": "CHARD",
+    "description": ""
+  },
+  {
+    "name": "Pepino",
+    "code": "PEPINO",
+    "parentProductCode": "PEPINO",
+    "description": ""
+  },
+  {
+    "name": "Pitahaya (Ejder Meyvesi)",
+    "code": "PITAHAYA_DRAGON_FRUIT",
+    "parentProductCode": "PITAHAYA",
+    "description": ""
+  },
+  {
+    "name": "Pomelo",
+    "code": "POMELO",
+    "parentProductCode": "POMELO",
+    "description": ""
+  },
+  {
+    "name": "Portakal",
+    "code": "ORANGE",
+    "parentProductCode": "ORANGE",
+    "description": ""
+  },
+  {
+    "name": "Portakal (2.kalite)",
+    "code": "ORANGE_SECONDQUALITY",
+    "parentProductCode": "ORANGE",
+    "description": ""
+  },
+  {
+    "name": "Portakal (Finike Çavdır)",
+    "code": "ORANGE_FINIKE_CAVDIR",
+    "parentProductCode": "ORANGE",
+    "description": ""
+  },
+  {
+    "name": "Portakal (Sıkmalık)",
+    "code": "ORANGE_SQUEEZE",
+    "parentProductCode": "ORANGE",
+    "description": ""
+  },
+  {
+    "name": "Portakal (Valensiya)",
+    "code": "ORANGE_VALENCIA",
+    "parentProductCode": "ORANGE",
+    "description": ""
+  },
+  {
+    "name": "Portakal (Waşington)",
+    "code": "ORANGE_WASHINGTON",
+    "parentProductCode": "ORANGE",
+    "description": ""
+  },
+  {
+    "name": "Portakal(lüx)",
+    "code": "ORANGE_LUXURY",
+    "parentProductCode": "ORANGE",
+    "description": ""
+  },
+  {
+    "name": "Pshalis",
+    "code": "PSALIS",
+    "parentProductCode": "PSALIS",
+    "description": ""
+  },
+  {
+    "name": "Pırasa",
+    "code": "LEEK",
+    "parentProductCode": "LEEK",
+    "description": ""
+  },
+  {
+    "name": "Reyhan",
+    "code": "BASIL",
+    "parentProductCode": "BASIL",
+    "description": ""
+  },
+  {
+    "name": "Roka",
+    "code": "ROCKET",
+    "parentProductCode": "ROCKET",
+    "description": ""
+  },
+  {
+    "name": "Roka II.",
+    "code": "ROCKET_SECOND",
+    "parentProductCode": "ROCKET",
+    "description": ""
+  },
+  {
+    "name": "Salata (Silor)",
+    "code": "SALAD_SILOR",
+    "parentProductCode": "SALAD",
+    "description": ""
+  },
+  {
+    "name": "Salata (Çengelköy) silor",
+    "code": "SALAD_CENGELKOY_SILOR",
+    "parentProductCode": "SALAD",
+    "description": ""
+  },
+  {
+    "name": "Salata(Antalya)",
+    "code": "SALAD_ANTALYA",
+    "parentProductCode": "SALAD",
+    "description": ""
+  },
+  {
+    "name": "Salata(çengelköy II.)",
+    "code": "SALAD_CENGELKOY_SECOND",
+    "parentProductCode": "SALAD",
+    "description": ""
+  },
+  {
+    "name": "Salatalık I.",
+    "code": "CUCUMBER_FIRST",
+    "parentProductCode": "CUCUMBER",
+    "description": ""
+  },
+  {
+    "name": "Salatalık(acur)",
+    "code": "CUCUMBER_ACRID",
+    "parentProductCode": "CUCUMBER",
+    "description": ""
+  },
+  {
+    "name": "Salatalık(İkinci)",
+    "code": "CUCUMBER_SECOND",
+    "parentProductCode": "CUCUMBER",
+    "description": ""
+  },
+  {
+    "name": "Salihli Kiraz",
+    "code": "SALIHLI_CHERRY",
+    "parentProductCode": "SALIHLI",
+    "description": ""
+  },
+  {
+    "name": "Sarımsak",
+    "code": "GARLIC",
+    "parentProductCode": "GARLIC",
+    "description": ""
+  },
+  {
+    "name": "Sarımsak (Kuru)",
+    "code": "GARLIC_DRY",
+    "parentProductCode": "GARLIC",
+    "description": ""
+  },
+  {
+    "name": "Sarımsak (Yeşil)",
+    "code": "GARLIC_GREEN",
+    "parentProductCode": "GARLIC",
+    "description": ""
+  },
+  {
+    "name": "Sarımsak(II.)",
+    "code": "GARLIC_SECOND",
+    "parentProductCode": "GARLIC",
+    "description": ""
+  },
+  {
+    "name": "Semizotu",
+    "code": "PURSLANE",
+    "parentProductCode": "PURSLANE",
+    "description": ""
+  },
+  {
+    "name": "Soğan (Arpacık)",
+    "code": "ONION_STYE",
+    "parentProductCode": "ONION",
+    "description": ""
+  },
+  {
+    "name": "Soğan (Kırmızı Balık)",
+    "code": "ONION_RED_FISH",
+    "parentProductCode": "ONION",
+    "description": ""
+  },
+  {
+    "name": "Soğan (Taze)",
+    "code": "ONION_FRESH",
+    "parentProductCode": "ONION",
+    "description": ""
+  },
+  {
+    "name": "Soğan (Tekirdağ)",
+    "code": "ONION_TEKIRDAG",
+    "parentProductCode": "ONION",
+    "description": ""
+  },
+  {
+    "name": "Soğan Kuru",
+    "code": "ONION_DRY",
+    "parentProductCode": "ONION",
+    "description": ""
+  },
+  {
+    "name": "Soğan Kuru II.",
+    "code": "ONION_DRY_SECOND",
+    "parentProductCode": "ONION",
+    "description": ""
+  },
+  {
+    "name": "Soğan Kuru(ikinci)",
+    "code": "ONION_DRYSECOND",
+    "parentProductCode": "ONION",
+    "description": ""
+  },
+  {
+    "name": "Soğan Taze (Topraklı)",
+    "code": "ONION_FRESHLY_GROUNDED",
+    "parentProductCode": "ONION",
+    "description": ""
+  },
+  {
+    "name": "Soğan(Kuru)",
+    "code": "ONION_DRY",
+    "parentProductCode": "ONION",
+    "description": ""
+  },
+  {
+    "name": "Tereotu",
+    "code": "DILL",
+    "parentProductCode": "DILL",
+    "description": ""
+  },
+  {
+    "name": "Turp",
+    "code": "RADISH",
+    "parentProductCode": "RADISH",
+    "description": ""
+  },
+  {
+    "name": "Turp (Japon)",
+    "code": "RADISH_JAPANESE",
+    "parentProductCode": "RADISH",
+    "description": ""
+  },
+  {
+    "name": "Turp (Kırmızı)",
+    "code": "RADISH_RED",
+    "parentProductCode": "RADISH",
+    "description": ""
+  },
+  {
+    "name": "Turp(Şalgam)",
+    "code": "RADISH_TURNIP",
+    "parentProductCode": "RADISH",
+    "description": ""
+  },
+  {
+    "name": "Vişne",
+    "code": "CHERRY",
+    "parentProductCode": "CHERRY",
+    "description": ""
+  },
+  {
+    "name": "Yaprak (Salamura)",
+    "code": "LEAF_BRINE",
+    "parentProductCode": "LEAF",
+    "description": ""
+  },
+  {
+    "name": "Yaprak (Taze)",
+    "code": "LEAF_FRESH",
+    "parentProductCode": "LEAF",
+    "description": ""
+  },
+  {
+    "name": "Yer Elması",
+    "code": "PLACE_APPLE",
+    "parentProductCode": "PLACE",
+    "description": ""
+  },
+  {
+    "name": "nar",
+    "code": "POMEGRANATE_",
+    "parentProductCode": "POMEGRANATE ",
+    "description": ""
+  },
+  {
+    "name": "Çağla (Badem)",
+    "code": "UNRIPE_ALMOND_ALMOND",
+    "parentProductCode": "UNRIPE ALMOND",
+    "description": ""
+  },
+  {
+    "name": "Çilek",
+    "code": "STRAWBERRY",
+    "parentProductCode": "STRAWBERRY",
+    "description": ""
+  },
+  {
+    "name": "Çilek (Uludağ)",
+    "code": "STRAWBERRY_ULUDAG",
+    "parentProductCode": "STRAWBERRY",
+    "description": ""
+  },
+  {
+    "name": "Çilek II.",
+    "code": "STRAWBERRY_SECOND",
+    "parentProductCode": "STRAWBERRY",
+    "description": ""
+  },
+  {
+    "name": "Çilek(I.)",
+    "code": "STRAWBERRY_FIRST",
+    "parentProductCode": "STRAWBERRY",
+    "description": ""
+  },
+  {
+    "name": "Çilek(Uludağ)",
+    "code": "STRAWBERRY_ULUDAG",
+    "parentProductCode": "STRAWBERRY",
+    "description": ""
+  },
+  {
+    "name": "Üzüm",
+    "code": "GRAPE",
+    "parentProductCode": "GRAPE",
+    "description": ""
+  },
+  {
+    "name": "Üzüm (2.kalite)",
+    "code": "GRAPE_SECONDQUALITY",
+    "parentProductCode": "GRAPE",
+    "description": ""
+  },
+  {
+    "name": "Üzüm (Kırmızı)",
+    "code": "GRAPE_RED",
+    "parentProductCode": "GRAPE",
+    "description": ""
+  },
+  {
+    "name": "Üzüm (Müşküle)",
+    "code": "GRAPE_MUSKULE",
+    "parentProductCode": "GRAPE",
+    "description": ""
+  },
+  {
+    "name": "Üzüm (Rezzaki)",
+    "code": "GRAPE_REZZAKI",
+    "parentProductCode": "GRAPE",
+    "description": ""
+  },
+  {
+    "name": "Üzüm (Siyah)",
+    "code": "GRAPE_BLACK",
+    "parentProductCode": "GRAPE",
+    "description": ""
+  },
+  {
+    "name": "Üzüm (siyah)Lüks",
+    "code": "GRAPE_BLACKLUXURY",
+    "parentProductCode": "GRAPE",
+    "description": ""
+  },
+  {
+    "name": "Üzüm (Çavuş)",
+    "code": "GRAPE_SERGEANT",
+    "parentProductCode": "GRAPE",
+    "description": ""
+  },
+  {
+    "name": "Üzüm (Çekirdeksiz)",
+    "code": "GRAPE_SEEDLESS",
+    "parentProductCode": "GRAPE",
+    "description": ""
+  },
+  {
+    "name": "Üzüm (Çekirdeksiz)",
+    "code": "GRAPE_SEEDLESS",
+    "parentProductCode": "GRAPE",
+    "description": ""
+  },
+  {
+    "name": "Üzüm (İzmir)",
+    "code": "GRAPE_IZMIR",
+    "parentProductCode": "GRAPE",
+    "description": ""
+  },
+  {
+    "name": "Üzüm(Siyah)",
+    "code": "GRAPE_BLACK",
+    "parentProductCode": "GRAPE",
+    "description": ""
+  },
+  {
+    "name": "Üzüm(redglobe)",
+    "code": "GRAPE_REDGLOBE",
+    "parentProductCode": "GRAPE",
+    "description": ""
+  },
+  {
+    "name": "İncir",
+    "code": "FIG",
+    "parentProductCode": "FIG",
+    "description": ""
+  },
+  {
+    "name": "İncir (Siyah)",
+    "code": "FIG_BLACK",
+    "parentProductCode": "FIG",
+    "description": ""
+  },
+  {
+    "name": "İncir(Beyaz)",
+    "code": "FIG_WHITE",
+    "parentProductCode": "FIG",
+    "description": ""
+  },
+  {
+    "name": "İncir(Kavak)",
+    "code": "FIG_POPLAR",
+    "parentProductCode": "FIG",
+    "description": ""
+  },
+  {
+    "name": "Şeftali",
+    "code": "PEACH",
+    "parentProductCode": "PEACH",
+    "description": ""
+  }
+]

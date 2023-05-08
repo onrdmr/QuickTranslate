@@ -1,0 +1,17 @@
+C:\Users\Onur Demir\Downloads\Produce\Produce\bin\Debug\net7.0\Produce.exe
+C:\Users\Onur Demir\Downloads\Produce\Produce\bin\Debug\net7.0\Produce.deps.json
+C:\Users\Onur Demir\Downloads\Produce\Produce\bin\Debug\net7.0\Produce.runtimeconfig.json
+C:\Users\Onur Demir\Downloads\Produce\Produce\bin\Debug\net7.0\Produce.dll
+C:\Users\Onur Demir\Downloads\Produce\Produce\bin\Debug\net7.0\Produce.pdb
+C:\Users\Onur Demir\Downloads\Produce\Produce\obj\Debug\net7.0\Produce.csproj.AssemblyReference.cache
+C:\Users\Onur Demir\Downloads\Produce\Produce\obj\Debug\net7.0\Produce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onur Demir\Downloads\Produce\Produce\obj\Debug\net7.0\Produce.AssemblyInfoInputs.cache
+C:\Users\Onur Demir\Downloads\Produce\Produce\obj\Debug\net7.0\Produce.AssemblyInfo.cs
+C:\Users\Onur Demir\Downloads\Produce\Produce\obj\Debug\net7.0\Produce.csproj.CoreCompileInputs.cache
+C:\Users\Onur Demir\Downloads\Produce\Produce\obj\Debug\net7.0\Produce.dll
+C:\Users\Onur Demir\Downloads\Produce\Produce\obj\Debug\net7.0\refint\Produce.dll
+C:\Users\Onur Demir\Downloads\Produce\Produce\obj\Debug\net7.0\Produce.pdb
+C:\Users\Onur Demir\Downloads\Produce\Produce\obj\Debug\net7.0\Produce.genruntimeconfig.cache
+C:\Users\Onur Demir\Downloads\Produce\Produce\obj\Debug\net7.0\ref\Produce.dll
+C:\Users\Onur Demir\Downloads\Produce\Produce\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Onur Demir\Downloads\Produce\Produce\obj\Debug\net7.0\Produce.csproj.CopyComplete
